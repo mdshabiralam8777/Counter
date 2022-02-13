@@ -1,0 +1,10 @@
+#counter{
+    color:green;
+    font-size: 70px;
+    font-weight: bolder;
+}
+#value{
+    font-size: 100px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
